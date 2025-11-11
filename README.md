@@ -15,6 +15,19 @@ En la versión **AS-IS** se observan flujos manuales, dependencias entre áreas 
 El proceso **TO-BE** plantea una estructura digitalizada, con validaciones automáticas, integración con pasarela de pagos y notificación inmediata a los actores.
 
 ---
+> **Actores Diagrama original (v1):**
+> 1. Estudiante
+> 2. Sistema academico
+> 3. Coordinación Academica
+> 4. Tesoreria
+> 5. Docente
+
+> **Actores Diagrama optimizado (v2):**
+> 1. Estudiante
+> 2. Sistema academico
+> 6. Docente
+
+---
 
 ## 2. Análisis comparativo del proceso
 
